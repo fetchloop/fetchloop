@@ -23,6 +23,7 @@ sv / en / ru
 ```
 
 ---
-<img width="70%" src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" />
-
-<img width="70%" src="https://ghstats.dev/api/langs?username=fetchloop&theme=light&max_langs=5" alt="Top Languages" />
+<p align="center">
+  <img width="48%" src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" />
+  <img width="48%" src="https://ghstats.dev/api/langs?username=fetchloop&theme=light&max_langs=5" />
+</p>
