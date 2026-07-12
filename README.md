@@ -22,12 +22,6 @@ and building tools that do things they probably shouldn't be able to.
 sv / en / ru
 ```
 
-### languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,lua,js" />
-</p>
-
 ---
 
 ## github stats
@@ -39,6 +33,6 @@ sv / en / ru
 </tr>
 </table>
 
-<img src="https://ghchart.rshah.org/fetchloop" alt="GitHub Contribution Chart" />
-
 <img src="https://streak-stats.demolab.com/?user=fetchloop&theme=default&card_width=850" alt="GitHub Streak Stats" />
+
+<img src="https://ghchart.rshah.org/fetchloop" alt="GitHub Contribution Chart" />
