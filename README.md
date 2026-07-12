@@ -20,20 +20,11 @@ and building tools that do things they probably shouldn't be able to.
 sv / en / ru
 ```
 
----
-
-### languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,lua,js" />
-</p>
-
----
-
-## github stats
-
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" />
   <br></br>
 <img src="https://ghstats.dev/api/langs?username=fetchloop&theme=light&max_langs=5" alt="Top Languages" />
 </div>
+
+### languages
+<img src="https://skillicons.dev/icons?i=py,java,cpp,lua,js" />
