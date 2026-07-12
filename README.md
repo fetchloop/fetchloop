@@ -22,12 +22,6 @@ and building tools that do things they probably shouldn't be able to.
 sv / en / ru
 ```
 
-### languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,lua,js" />
-</p>
-
 ---
 
 ## github stats
@@ -42,3 +36,11 @@ sv / en / ru
 <img src="https://streak-stats.demolab.com/?user=fetchloop&theme=default" alt="GitHub Streak Stats" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=fetchloop&theme=flat&no-frame=true&column=-1" alt="GitHub Trophies" />
+
+---
+
+### languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,lua,js" />
+</p>
