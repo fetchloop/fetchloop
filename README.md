@@ -25,7 +25,7 @@ sv / en / ru
 ---
 
 <p align="center">
-  <img width="70%" src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" />
+  <img width="85%" src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" />
 </p>
 
 <p align="center">
