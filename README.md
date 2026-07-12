@@ -23,19 +23,10 @@ sv / en / ru
 ```
 
 ---
-
-## github stats
-
 <img width="100%" src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" />
-
-### top languages
 
 <img width="100%" src="https://ghstats.dev/api/langs?username=fetchloop&theme=light&max_langs=5" alt="Top Languages" />
 
-### contributions
-
 <img width="100%" src="https://ghchart.rshah.org/fetchloop" alt="GitHub Contribution Chart" />
-
-### streak
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=fetchloop&theme=default&card_width=850" alt="GitHub Streak Stats" />
