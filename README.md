@@ -26,11 +26,13 @@ sv / en / ru
 
 <table>
 <tr>
-<td valign="top"><img src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" /></td>
-<td valign="top"><img src="https://ghstats.dev/api/langs?username=fetchloop&theme=light&max_langs=5" alt="Top Languages" /></td>
+<td valign="top" width="50%"><img width="100%" src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" /></td>
+<td valign="top" width="50%">
+<img width="100%" src="https://ghstats.dev/api/langs?username=fetchloop&theme=light&max_langs=5" alt="Top Languages" />
+<br>
+<img width="100%" src="https://ghchart.rshah.org/fetchloop" alt="GitHub Contribution Chart" />
+</td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=fetchloop&theme=default&card_width=850" alt="GitHub Streak Stats" />
-
-<img src="https://ghchart.rshah.org/fetchloop" alt="GitHub Contribution Chart" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=fetchloop&theme=default&card_width=850" alt="GitHub Streak Stats" />
