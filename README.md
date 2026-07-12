@@ -11,7 +11,6 @@
  ░ ░       ░    ░      ░         ░  ░░ ░  ░ ░   ░ ░ ░ ▒  ░ ░ ░ ▒  ░░       
            ░  ░        ░ ░       ░  ░  ░    ░  ░    ░ ░      ░ ░           
                        ░                                                   
-
 self-taught developer working across windows internals,
 low-level systems programming, reverse engineering,
 and game development, though mostly modding.
