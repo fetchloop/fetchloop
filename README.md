@@ -1,3 +1,5 @@
+## about me
+
 ```txt
   █████▒▓█████▄▄▄█████▓ ▄████▄   ██░ ██  ██▓     ▒█████   ▒█████   ██▓███  
 ▓██   ▒ ▓█   ▀▓  ██▒ ▓▒▒██▀ ▀█  ▓██░ ██▒▓██▒    ▒██▒  ██▒▒██▒  ██▒▓██░  ██▒
@@ -20,13 +22,23 @@ and building tools that do things they probably shouldn't be able to.
 sv / en / ru
 ```
 
-<div align="left">
-  <img src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" />
-  <br></br>
-<img src="https://ghstats.dev/api/langs?username=fetchloop&theme=light&max_langs=5" alt="Top Languages" />
-</div>
-
 ### languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=py,java,cpp,lua,js" />
 </p>
+
+---
+
+## github stats
+
+<table>
+<tr>
+<td><img src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" /></td>
+<td><img src="https://ghstats.dev/api/langs?username=fetchloop&theme=light&max_langs=5" alt="Top Languages" /></td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=fetchloop&theme=default" alt="GitHub Streak Stats" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=fetchloop&theme=flat&no-frame=true&column=-1" alt="GitHub Trophies" />
