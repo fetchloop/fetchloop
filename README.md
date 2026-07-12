@@ -27,4 +27,6 @@ sv / en / ru
 </div>
 
 ### languages
-<img src="https://skillicons.dev/icons?i=py,java,cpp,lua,js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,lua,js" />
+</p>
