@@ -24,8 +24,6 @@ sv / en / ru
 
 ---
 
-## github stats
-
 <table>
 <tr>
 <td valign="top"><img src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" /></td>
