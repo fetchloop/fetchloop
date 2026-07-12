@@ -1,5 +1,3 @@
-## about me
-
 ```txt
   █████▒▓█████▄▄▄█████▓ ▄████▄   ██░ ██  ██▓     ▒█████   ▒█████   ██▓███  
 ▓██   ▒ ▓█   ▀▓  ██▒ ▓▒▒██▀ ▀█  ▓██░ ██▒▓██▒    ▒██▒  ██▒▒██▒  ██▒▓██░  ██▒
@@ -24,12 +22,10 @@ sv / en / ru
 
 ---
 
-## tech stack
-
 ### languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,lua" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,lua,js" />
 </p>
 
 ---
@@ -37,7 +33,7 @@ sv / en / ru
 ## github stats
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=fetchloop&theme=radical&hide_title=true" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" />
   <br></br>
-<img src="https://ghstats.dev/api/langs?username=fetchloop&theme=radical&max_langs=5" alt="Top Languages" />
+<img src="https://ghstats.dev/api/langs?username=fetchloop&theme=light&max_langs=5" alt="Top Languages" />
 </div>
