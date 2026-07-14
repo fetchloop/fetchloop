@@ -20,13 +20,3 @@ and building tools that do things they probably shouldn't be able to.
 
 sv / en / ru
 ```
-
----
-
-<p align="center">
-  <img width="85%" src="https://ghstats.dev/api/card?username=fetchloop&theme=light&hide_title=true" alt="GitHub Stats Card" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://ghstats.dev/api/langs?username=fetchloop&theme=light&max_langs=5" alt="Top Languages" />
-</p>
